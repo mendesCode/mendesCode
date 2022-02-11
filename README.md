@@ -1,4 +1,4 @@
-## Hi! I'm Lucas Mendes, a Full Stack developer who is completely in love with programming and to improve myself more and more 
+## Hi! I'm Lucas Mendes, a Full Stack developer in completely love with programming and improving myself more and more 
 
 <div align="center">
   <a href="https://github.com/mendesCode">
